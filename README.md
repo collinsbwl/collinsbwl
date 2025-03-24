@@ -1,4 +1,4 @@
-## Hi there :whale:	
+## Hi! :pear:	
 
 Studiying Computer Science & Business [at] Western.
 
