@@ -1,6 +1,6 @@
-## Hi there 
+## Hi there :whale:	
 
-Currently building.
+Studiying Computer Science & Business [at] Western.
 
 ---
 > Don’t take like too seriously, you’ll never get out of it alive
