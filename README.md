@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 
+
+Currently building.
+
+---
+> Don’t take like too seriously, you’ll never get out of it alive
+
+— Elbert Hubbard
 
 <!--
 **collinsbwl/collinsbwl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
