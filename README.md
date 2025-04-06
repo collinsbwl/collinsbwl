@@ -1,7 +1,4 @@
-## Hi! :pear:	
-
-Studiying Computer Science & Business [at] Western.
-
+# Hi! :pear:	
 ---
 > Don’t take like too seriously, you’ll never get out of it alive
 
